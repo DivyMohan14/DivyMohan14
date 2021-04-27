@@ -5,6 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/H3LL_codes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/H3LL_codes)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divymohan/)
 <a href="https://www.youtube.com/channel/UCN8KMsTpx2Q9cfZcbZR3A8Q"><img alt="youtube views" title="YouTube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCN8KMsTpx2Q9cfZcbZR3A8Q&key=AIzaSyCa4RCThPFLuB4oVGlmWlB6t_MS1dHpToo&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
+[![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/divy-14)
   
 ### Spotify Playing 🎧
 [<img src="https://spotifytest.dr-one-punch.vercel.app/api/spotify" alt="Divy Spotify Playing" width="350" />](https://open.spotify.com/user/06pg5zahikeftw0usrr2iqvny)
