@@ -8,25 +8,14 @@
 
 ## I'm a Software Developer and a Deep Learning Reseacher !!
 
-- 🌱 I’m currently working on General Adversarial Networks
+- 🌱 I’m currently working as SDE-2 at Refyne India
 - 👯 I love to read Research Papers and implement them from scratch
-- 🥅 2021 Goals: Contribute more to Open Source projects and read more Research Papers!!
 - ⚡ Fun fact: I love to watch anime and documentaries
 
 
 <hr />
 
-### Connect with me
 
-<p align="left">
-
-<a href="https://www.youtube.com/channel/UCN8KMsTpx2Q9cfZcbZR3A8Q?view_as=subscriber"><img align="left" alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
-<a href="https://discordapp.com/users/463006624655736833"><img align="left" alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-<a href="https://www.linkedin.com/in/divymohan/"><img align="left" alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-</p>
-<br />
-<br />
-<hr />
 
 ### Languages and Major Libraries
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
